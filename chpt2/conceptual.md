@@ -2,14 +2,16 @@ Conceptual
 1. For each of parts a) through d), indicate whether we would generally
 expect the performance of a flexible statistical learning method to be
 better or worse than an inflexible method. Justify your answer.
-a) The sample size n is extremely large, and the number of predic-
-tors p is small.
-b) The number of predictors p is extremely large, and the number
-of observations n is small.
-c) The relationship between the predictors and response is highly
-non-linear.
-d) The variance of the error terms, i.e. σ 2 = Var("), is extremely
-high.
+<ol type="a">
+    <li> The sample size n is extremely large, and the number of predic-
+    tors p is small. </li>
+    <li> The number of predictors p is extremely large, and the number
+    of observations n is small. </li>
+    <li> The relationship between the predictors and response is highly
+    non-linear. </li>
+    <li> The variance of the error terms, i.e. σ 2 = Var("), is extremely
+    high.</li>
+</ol>
 
 2. Explain whether each scenario is a classification or regression prob-
 lem, and indicate whether we are most interested in inference or pre-
