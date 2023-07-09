@@ -1,7 +1,7 @@
 Conceptual
-1. For each of parts a) through d), indicate whether we would generally
+**1. For each of parts a) through d), indicate whether we would generally
 expect the performance of a flexible statistical learning method to be
-better or worse than an inflexible method. Justify your answer.
+better or worse than an inflexible method. Justify your answer.**
 <ol type="a">
     <li> The sample size n is extremely large, and the number of predic-
     tors p is small. </li>
