@@ -1,5 +1,4 @@
-Conceptual
-**1. For each of parts a) through d), indicate whether we would generally
+1. **For each of parts a) through d), indicate whether we would generally
 expect the performance of a flexible statistical learning method to be
 better or worse than an inflexible method. Justify your answer.**
 <ol type="a">
@@ -13,9 +12,9 @@ better or worse than an inflexible method. Justify your answer.**
     high.</li>
 </ol>
 
-2. Explain whether each scenario is a classification or regression prob-
+2. **Explain whether each scenario is a classification or regression prob-
 lem, and indicate whether we are most interested in inference or pre-
-diction. Finally, provide n and p.
+diction. Finally, provide n and p.**
 <ol type="a">
 <li> We collect a set of data on the top 500 firms in the US. For each
 firm we record profit, number of employees, industry and the
@@ -35,7 +34,7 @@ change in the US market, the % change in the British market,
 and the % change in the German market.</li>
 </ol>
 
-3. We now revisit the bias-variance decomposition.
+3. **We now revisit the bias-variance decomposition.**
 <ol type="a">
 <li> Provide a sketch of typical (squared) bias, variance, training er-
 ror, test error, and Bayes (or irreducible) error curves, on a sin-
@@ -48,8 +47,8 @@ Make sure to label each one.</li>
 part a).</li>
 </ol>
 
-4. You will now think of some real-life applications for statistical learn-
-ing.
+4. **You will now think of some real-life applications for statistical learn-
+ing.**
 <ol type="a">
 <li> Describe three real-life applications in which classification might
 be useful. Describe the response, as well as the predictors. Is the
@@ -63,18 +62,18 @@ answer.</li>
 might be useful.</li>
 </ol>
 
-5. What are the advantages and disadvantages of a very flexible (versus
+5. **What are the advantages and disadvantages of a very flexible (versus
 a less flexible) approach for regression or classification? Under what
 circumstances might a more flexible approach be preferred to a less
-flexible approach? When might a less flexible approach be preferred?
+flexible approach? When might a less flexible approach be preferred?**
 
-6. Describe the differences between a parametric and a non-parametric
+6. **Describe the differences between a parametric and a non-parametric
 statistical learning approach. What are the advantages of a para-
 metric approach to regression or classification (as opposed to a non-
-parametric approach)? What are its disadvantages?
+parametric approach)? What are its disadvantages?**
 
-7. The table below provides a training data set containing six observa-
-tions, three predictors, and one qualitative response variable.
+7. **The table below provides a training data set containing six observa-
+tions, three predictors, and one qualitative response variable.**
 Obs. X 1 X 2 X 3 Y
 1 0 3 0 Red
 2 2 0 0 Red
